@@ -25,3 +25,6 @@ Thermocouple input (K-type)
 1:   White:   Solar Panel +
 2:   Black:   NC
 3:   Brown:   Solar Panel -
+
+Datasheet:   https://drive.google.com/open?id=1x_kuknZ5XkYa5zghdTidgOHQYKNi7sTL&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1wLDUr5YVcJxlvIu_8K7u43wkQXeQJKGM&usp=drive_fs
